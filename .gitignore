@@ -1,0 +1,7 @@
+data/*.csv
+!data/.gitkeep
+output/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
