@@ -1,4 +1,5 @@
 data/*.csv
+!data/dataset_data_dictionary.csv
 !data/.gitkeep
 output/
 .venv/
